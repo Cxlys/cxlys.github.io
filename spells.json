@@ -1,0 +1,953 @@
+[{
+    "name": "Adula\u0027s Moonblade",
+    "type": "Sorcery",
+    "manaCost": 26,
+    "slotCost": 1,
+    "intReq": 32,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Agheel\u0027s Flame",
+    "type": "Incantation",
+    "manaCost": 36,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 23,
+    "arcReq": 15
+}, {
+    "name": "Ambush Shard",
+    "type": "Sorcery",
+    "manaCost": 16,
+    "slotCost": 1,
+    "intReq": 23,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Ancient Dragons\u0027 Lightning Spear",
+    "type": "Incantation",
+    "manaCost": 32,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 32,
+    "arcReq": 0
+}, {
+    "name": "Ancient Dragons\u0027 Lightning Strike",
+    "type": "Incantation",
+    "manaCost": 27,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 26,
+    "arcReq": 0
+}, {
+    "name": "Aspect of the Crucible Tail",
+    "type": "Incantation",
+    "manaCost": 32,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 27,
+    "arcReq": 0
+}, {
+    "name": "Assassin\u0027s Approach",
+    "type": "Incantation",
+    "manaCost": 15,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 10,
+    "arcReq": 0
+}, {
+    "name": "Barrier of Gold",
+    "type": "Incantation",
+    "manaCost": 30,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 24,
+    "arcReq": 0
+}, {
+    "name": "Beast Claw",
+    "type": "Incantation",
+    "manaCost": 8,
+    "slotCost": 1,
+    "intReq": null,
+    "faithReq": 8,
+    "arcReq": null
+}, {
+    "name": "Bestial Sling",
+    "type": "Incantation",
+    "manaCost": 7,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 10,
+    "arcReq": 0
+}, {
+    "name": "Black Blade",
+    "type": "Incantation",
+    "manaCost": 26,
+    "slotCost": 2,
+    "intReq": 0,
+    "faithReq": 46,
+    "arcReq": 0
+}, {
+    "name": "Black Flame",
+    "type": "Incantation",
+    "manaCost": null,
+    "slotCost": null,
+    "intReq": null,
+    "faithReq": null,
+    "arcReq": null
+}, {
+    "name": "Black Flame Blade",
+    "type": "Incantation",
+    "manaCost": null,
+    "slotCost": null,
+    "intReq": null,
+    "faithReq": null,
+    "arcReq": null
+}, {
+    "name": "Black Flame Ritual",
+    "type": "Incantation",
+    "manaCost": 24,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 42,
+    "arcReq": 0
+}, {
+    "name": "Black Flame\u0027s Protection",
+    "type": "Incantation",
+    "manaCost": 30,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 30,
+    "arcReq": 0
+}, {
+    "name": "Blessing of the Erdtree",
+    "type": "Incantation",
+    "manaCost": 60,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 38,
+    "arcReq": 0
+}, {
+    "name": "Blessing\u0027s Boon",
+    "type": "Incantation",
+    "manaCost": 30,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 24,
+    "arcReq": 0
+}, {
+    "name": "Bloodflame Blade",
+    "type": "Incantation",
+    "manaCost": 20,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 12,
+    "arcReq": 0
+}, {
+    "name": "Borealis\u0027s Mist",
+    "type": "Incantation",
+    "manaCost": 48,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 23,
+    "arcReq": 15
+}, {
+    "name": "Burn, O Flame!",
+    "type": "Incantation",
+    "manaCost": 30,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 27,
+    "arcReq": 0
+}, {
+    "name": "Cannon of Haima",
+    "type": "Sorcery",
+    "manaCost": 45,
+    "slotCost": 1,
+    "intReq": 25,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Carian Greatsword",
+    "type": "Sorcery",
+    "manaCost": 16,
+    "slotCost": 1,
+    "intReq": 24,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Carian Phalanx",
+    "type": "Sorcery",
+    "manaCost": 26,
+    "slotCost": 1,
+    "intReq": 34,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Carian Piercer",
+    "type": "Sorcery",
+    "manaCost": 23,
+    "slotCost": 1,
+    "intReq": 27,
+    "faithReq": null,
+    "arcReq": null
+}, {
+    "name": "Carian Retaliation",
+    "type": "Sorcery",
+    "manaCost": 8,
+    "slotCost": 1,
+    "intReq": 17,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Carian Slicer",
+    "type": "Sorcery",
+    "manaCost": 4,
+    "slotCost": 1,
+    "intReq": 14,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Catch Flame",
+    "type": "Incantation",
+    "manaCost": 10,
+    "slotCost": 1,
+    "intReq": null,
+    "faithReq": 8,
+    "arcReq": null
+}, {
+    "name": "Comet Azur",
+    "type": "Sorcery",
+    "manaCost": 40,
+    "slotCost": 3,
+    "intReq": 60,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Crystal Barrage",
+    "type": "Sorcery",
+    "manaCost": 14,
+    "slotCost": 1,
+    "intReq": 23,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Crystal Burst",
+    "type": "Sorcery",
+    "manaCost": 14,
+    "slotCost": 1,
+    "intReq": 18,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Crystal Release",
+    "type": "Sorcery",
+    "manaCost": 38,
+    "slotCost": 1,
+    "intReq": 41,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Cure Poison",
+    "type": "Incantation",
+    "manaCost": 7,
+    "slotCost": 1,
+    "intReq": null,
+    "faithReq": 8,
+    "arcReq": null
+}, {
+    "name": "Darkness",
+    "type": "Incantation",
+    "manaCost": 34,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 18,
+    "arcReq": 0
+}, {
+    "name": "Divine Fortification",
+    "type": "Incantation",
+    "manaCost": 20,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 10,
+    "arcReq": 0
+}, {
+    "name": "Dragonbolt Blessing",
+    "type": "Incantation",
+    "manaCost": 20,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 21,
+    "arcReq": 0
+}, {
+    "name": "Dragonclaw",
+    "type": "Incantation",
+    "manaCost": 32,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 17,
+    "arcReq": 13
+}, {
+    "name": "Dragonfire",
+    "type": "Incantation",
+    "manaCost": 28,
+    "slotCost": 1,
+    "intReq": null,
+    "faithReq": 15,
+    "arcReq": 12
+}, {
+    "name": "Dragonice",
+    "type": "Incantation",
+    "manaCost": 36,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 15,
+    "arcReq": 12
+}, {
+    "name": "Dragonmaw",
+    "type": "Incantation",
+    "manaCost": 62,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 24,
+    "arcReq": 16
+}, {
+    "name": "Ekzykes\u0027s Decay",
+    "type": "Incantation",
+    "manaCost": 48,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 23,
+    "arcReq": 15
+}, {
+    "name": "Electrify Armament",
+    "type": "Incantation",
+    "manaCost": 27,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 15,
+    "arcReq": 0
+}, {
+    "name": "Erdtree Heal",
+    "type": "Incantation",
+    "manaCost": 65,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 42,
+    "arcReq": 0
+}, {
+    "name": "Flame Sling",
+    "type": "Incantation",
+    "manaCost": 14,
+    "slotCost": 1,
+    "intReq": null,
+    "faithReq": 12,
+    "arcReq": null
+}, {
+    "name": "Flame of the Fell God",
+    "type": "Incantation",
+    "manaCost": 20,
+    "slotCost": 2,
+    "intReq": 0,
+    "faithReq": 41,
+    "arcReq": 0
+}, {
+    "name": "Flame, Cleanse Me",
+    "type": "Incantation",
+    "manaCost": 14,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 12,
+    "arcReq": 0
+}, {
+    "name": "Flame, Fall Upon Them",
+    "type": "Incantation",
+    "manaCost": 24,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 28,
+    "arcReq": 0
+}, {
+    "name": "Flame, Grant me Strength",
+    "type": "Incantation",
+    "manaCost": 28,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 15,
+    "arcReq": 0
+}, {
+    "name": "Flame, Protect Me",
+    "type": "Incantation",
+    "manaCost": 30,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 24,
+    "arcReq": 0
+}, {
+    "name": "Founding Rain of Stars",
+    "type": "Sorcery",
+    "manaCost": 69,
+    "slotCost": 2,
+    "intReq": 52,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Freezing Mist",
+    "type": "Sorcery",
+    "manaCost": 20,
+    "slotCost": 1,
+    "intReq": 21,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Frenzied Burst",
+    "type": "Incantation",
+    "manaCost": null,
+    "slotCost": null,
+    "intReq": null,
+    "faithReq": null,
+    "arcReq": null
+}, {
+    "name": "Frozen Armament",
+    "type": "Sorcery",
+    "manaCost": 20,
+    "slotCost": 1,
+    "intReq": 15,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Frozen Lightning Spear",
+    "type": "Incantation",
+    "manaCost": 36,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 34,
+    "arcReq": 0
+}, {
+    "name": "Gavel of Haima",
+    "type": "Sorcery",
+    "manaCost": 37,
+    "slotCost": 1,
+    "intReq": 25,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Gelmir\u0027s Fury",
+    "type": "Sorcery",
+    "manaCost": 21,
+    "slotCost": 1,
+    "intReq": 28,
+    "faithReq": 15,
+    "arcReq": 0
+}, {
+    "name": "Giantsflame Take Thee",
+    "type": "Incantation",
+    "manaCost": 24,
+    "slotCost": 2,
+    "intReq": 0,
+    "faithReq": 30,
+    "arcReq": 0
+}, {
+    "name": "Glintblade Phalanx",
+    "type": "Sorcery",
+    "manaCost": 20,
+    "slotCost": 1,
+    "intReq": 22,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Glintstone Arc",
+    "type": "Sorcery",
+    "manaCost": 10,
+    "slotCost": 1,
+    "intReq": 13,
+    "faithReq": null,
+    "arcReq": null
+}, {
+    "name": "Glintstone Breath",
+    "type": "Incantation",
+    "manaCost": 28,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 15,
+    "arcReq": 12
+}, {
+    "name": "Glintstone Cometshard",
+    "type": "Sorcery",
+    "manaCost": 25,
+    "slotCost": 1,
+    "intReq": 36,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Glintstone Icecrag",
+    "type": "Sorcery",
+    "manaCost": 12,
+    "slotCost": 1,
+    "intReq": 15,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Glintstone Pebble",
+    "type": "Sorcery",
+    "manaCost": 7,
+    "slotCost": 1,
+    "intReq": 10,
+    "faithReq": null,
+    "arcReq": null
+}, {
+    "name": "Glintstone Stars",
+    "type": "Sorcery",
+    "manaCost": 14,
+    "slotCost": 1,
+    "intReq": 13,
+    "faithReq": null,
+    "arcReq": null
+}, {
+    "name": "Golden Vow",
+    "type": "Incantation",
+    "manaCost": 47,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 25,
+    "arcReq": 0
+}, {
+    "name": "Gravity Well",
+    "type": "Sorcery",
+    "manaCost": 12,
+    "slotCost": 1,
+    "intReq": 17,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Great Glintstone Shard",
+    "type": "Sorcery",
+    "manaCost": 12,
+    "slotCost": 1,
+    "intReq": 16,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Great Oracular Bubble",
+    "type": "Sorcery",
+    "manaCost": 16,
+    "slotCost": 1,
+    "intReq": 25,
+    "faithReq": 0,
+    "arcReq": 18
+}, {
+    "name": "Greatblade Phalanx",
+    "type": "Sorcery",
+    "manaCost": 43,
+    "slotCost": 1,
+    "intReq": 29,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Greyoll\u0027s Roar",
+    "type": "Incantation",
+    "manaCost": 75,
+    "slotCost": 2,
+    "intReq": null,
+    "faithReq": 28,
+    "arcReq": 17
+}, {
+    "name": "Heal",
+    "type": "Incantation",
+    "manaCost": 32,
+    "slotCost": 1,
+    "intReq": null,
+    "faithReq": 12,
+    "arcReq": null
+}, {
+    "name": "Honed Bolt",
+    "type": "Incantation",
+    "manaCost": 12,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 24,
+    "arcReq": 0
+}, {
+    "name": "Law of Causality",
+    "type": "Incantation",
+    "manaCost": 22,
+    "slotCost": 1,
+    "intReq": 29,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Lightning Spear",
+    "type": "Incantation",
+    "manaCost": 18,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 17,
+    "arcReq": 0
+}, {
+    "name": "Lightning Strike",
+    "type": "Incantation",
+    "manaCost": 17,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 28,
+    "arcReq": 0
+}, {
+    "name": "Litany of Proper Death",
+    "type": "Incantation",
+    "manaCost": 17,
+    "slotCost": 1,
+    "intReq": 17,
+    "faithReq": 17,
+    "arcReq": null
+}, {
+    "name": "Lord\u0027s Aid",
+    "type": "Incantation",
+    "manaCost": 9,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 12,
+    "arcReq": 0
+}, {
+    "name": "Lord\u0027s Divine Fortification",
+    "type": "Incantation",
+    "manaCost": 30,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 27,
+    "arcReq": 0
+}, {
+    "name": "Lord\u0027s Heal",
+    "type": "Incantation",
+    "manaCost": 42,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 20,
+    "arcReq": 0
+}, {
+    "name": "Loretta\u0027s Greatbow",
+    "type": "Sorcery",
+    "manaCost": 32,
+    "slotCost": 1,
+    "intReq": 26,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Lucidity",
+    "type": "Sorcery",
+    "manaCost": 10,
+    "slotCost": 1,
+    "intReq": 17,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Magic Bubble",
+    "type": "Sorcery",
+    "manaCost": 12,
+    "slotCost": 1,
+    "intReq": 10,
+    "faithReq": null,
+    "arcReq": null
+}, {
+    "name": "Magic Downpour",
+    "type": "Sorcery",
+    "manaCost": 25,
+    "slotCost": 1,
+    "intReq": 15,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Magic Glintblade",
+    "type": "Sorcery",
+    "manaCost": 12,
+    "slotCost": 1,
+    "intReq": 14,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Magma Shot",
+    "type": "Sorcery",
+    "manaCost": 24,
+    "slotCost": 1,
+    "intReq": 19,
+    "faithReq": 10,
+    "arcReq": 0
+}, {
+    "name": "Meteorite",
+    "type": "Sorcery",
+    "manaCost": 30,
+    "slotCost": 1,
+    "intReq": 30,
+    "faithReq": null,
+    "arcReq": null
+}, {
+    "name": "Night Maiden\u0027s Mist",
+    "type": "Sorcery",
+    "manaCost": 35,
+    "slotCost": 1,
+    "intReq": 14,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "O, Flame!",
+    "type": "Incantation",
+    "manaCost": 16,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 16,
+    "arcReq": 0
+}, {
+    "name": "Oracle Bubbles",
+    "type": "Sorcery",
+    "manaCost": 12,
+    "slotCost": 1,
+    "intReq": 19,
+    "faithReq": 9,
+    "arcReq": 15
+}, {
+    "name": "Order Healing",
+    "type": "Incantation",
+    "manaCost": 15,
+    "slotCost": 1,
+    "intReq": 11,
+    "faithReq": 11,
+    "arcReq": 0
+}, {
+    "name": "Order\u0027s Blade",
+    "type": "Incantation",
+    "manaCost": 22,
+    "slotCost": 1,
+    "intReq": 13,
+    "faithReq": 13,
+    "arcReq": 0
+}, {
+    "name": "Poison Mist",
+    "type": "Incantation",
+    "manaCost": 18,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 12,
+    "arcReq": 0
+}, {
+    "name": "Protection of the Erdtree",
+    "type": "Incantation",
+    "manaCost": 30,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 35,
+    "arcReq": 0
+}, {
+    "name": "Rancorcall",
+    "type": "Sorcery",
+    "manaCost": 14,
+    "slotCost": 1,
+    "intReq": 16,
+    "faithReq": 14,
+    "arcReq": 0
+}, {
+    "name": "Rejection",
+    "type": "Incantation",
+    "manaCost": 9,
+    "slotCost": 1,
+    "intReq": null,
+    "faithReq": 10,
+    "arcReq": null
+}, {
+    "name": "Rennala\u0027s Full Moon",
+    "type": "Sorcery",
+    "manaCost": 55,
+    "slotCost": 2,
+    "intReq": 70,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Rock Blaster",
+    "type": "Sorcery",
+    "manaCost": 30,
+    "slotCost": 1,
+    "intReq": 21,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Rock Sling",
+    "type": "Sorcery",
+    "manaCost": 18,
+    "slotCost": 1,
+    "intReq": 18,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Roiling Magma",
+    "type": "Sorcery",
+    "manaCost": 32,
+    "slotCost": 1,
+    "intReq": 21,
+    "faithReq": 12,
+    "arcReq": 0
+}, {
+    "name": "Rotten Breath",
+    "type": "Incantation",
+    "manaCost": 36,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 15,
+    "arcReq": 12
+}, {
+    "name": "Rykard\u0027s Rancor",
+    "type": "Sorcery",
+    "manaCost": 35,
+    "slotCost": 1,
+    "intReq": 40,
+    "faithReq": 18,
+    "arcReq": 0
+}, {
+    "name": "Scholar\u0027s Armament",
+    "type": "Sorcery",
+    "manaCost": 25,
+    "slotCost": 1,
+    "intReq": 12,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Scholar\u0027s Shield",
+    "type": "Sorcery",
+    "manaCost": 30,
+    "slotCost": 1,
+    "intReq": 12,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Scouring Black Flame",
+    "type": "Incantation",
+    "manaCost": 16,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 28,
+    "arcReq": 0
+}, {
+    "name": "Shadow Bait",
+    "type": "Incantation",
+    "manaCost": 15,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 13,
+    "arcReq": 0
+}, {
+    "name": "Shatter Earth",
+    "type": "Sorcery",
+    "manaCost": 12,
+    "slotCost": 1,
+    "intReq": 15,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Shatterlng Crystal",
+    "type": "Sorcery",
+    "manaCost": 32,
+    "slotCost": 1,
+    "intReq": 38,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Star Shower",
+    "type": "Sorcery",
+    "manaCost": 36,
+    "slotCost": 1,
+    "intReq": 24,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Starlight",
+    "type": "Sorcery",
+    "manaCost": 12,
+    "slotCost": 1,
+    "intReq": 15,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Surge, O Flame!",
+    "type": "Incantation",
+    "manaCost": 1,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 9,
+    "arcReq": 0
+}, {
+    "name": "Swift Glintstone Shard",
+    "type": "Sorcery",
+    "manaCost": 3,
+    "slotCost": 1,
+    "intReq": 12,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Terra Magicus",
+    "type": "Sorcery",
+    "manaCost": 20,
+    "slotCost": 1,
+    "intReq": 20,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "The Flame of Frenzy",
+    "type": "Incantation",
+    "manaCost": 16,
+    "slotCost": 1,
+    "intReq": null,
+    "faithReq": 16,
+    "arcReq": null
+}, {
+    "name": "Thops\u0027s Barrier",
+    "type": "Sorcery",
+    "manaCost": 7,
+    "slotCost": 1,
+    "intReq": 18,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Tibia\u0027s Summons",
+    "type": "Sorcery",
+    "manaCost": 20,
+    "slotCost": 1,
+    "intReq": 28,
+    "faithReq": 20,
+    "arcReq": 0
+}, {
+    "name": "Unseen Blade",
+    "type": "Sorcery",
+    "manaCost": 18,
+    "slotCost": 1,
+    "intReq": 12,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Unseen Form",
+    "type": "Sorcery",
+    "manaCost": 20,
+    "slotCost": 1,
+    "intReq": 16,
+    "faithReq": 0,
+    "arcReq": 0
+}, {
+    "name": "Urgent Heal",
+    "type": "Incantation",
+    "manaCost": 16,
+    "slotCost": 1,
+    "intReq": null,
+    "faithReq": 8,
+    "arcReq": null
+}, {
+    "name": "Wrath of Gold",
+    "type": "Incantation",
+    "manaCost": 40,
+    "slotCost": 1,
+    "intReq": 0,
+    "faithReq": 32,
+    "arcReq": 0
+}, {
+    "name": "Zamor Ice Storm",
+    "type": "Sorcery",
+    "manaCost": 22,
+    "slotCost": 1,
+    "intReq": 36,
+    "faithReq": 0,
+    "arcReq": 0
+}]
