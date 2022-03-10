@@ -24,6 +24,10 @@ body {
     width: 100%;
 }
 
+.article a {
+    width: 100%;
+}
+
 .article {
     display: flex;
     border: 0.1rem solid grey;
@@ -121,6 +125,23 @@ a {
     background-color: gainsboro;
     color: black;
     border-radius: 2rem;
+}
+
+.contact-container {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    height: 4rem;
+    margin-bottom: 0.5rem;
+    border: 1px solid grey;
+    color: black;
+    width: 100%;
+}
+
+.contact-container:hover {
+    transition-duration: 1s;
+    background-color: gainsboro;
 }
 
 .stack {
