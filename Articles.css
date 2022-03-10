@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    flex-flow: row nowrap;
+    height: 5rem;
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-family: "Roboto";
+    font-size: 1.5rem;
+}
+
+.navbar-element {
+    display: flex;
+    height: 100%;
+    margin-left: 3rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-element:hover {
+    transition-duration: 0.3s;
+    cursor: pointer;
+    color: red;
+}
+
+.navbar-element:nth-child(2) {
+    padding-left: 0.5rem;
+}
